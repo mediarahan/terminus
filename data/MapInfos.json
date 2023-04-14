@@ -52,6 +52,6 @@ null,
 {"id":50,"expanded":true,"name":"Back Corridor","order":53,"parentId":5,"scrollX":1031.2,"scrollY":488},
 {"id":51,"expanded":false,"name":"Sea","order":51,"parentId":40,"scrollX":3573.818181818182,"scrollY":2094.5454545454545},
 {"id":52,"expanded":true,"name":"Forest","order":43,"parentId":6,"scrollX":1965.6,"scrollY":1152},
-{"id":53,"expanded":false,"name":"All","order":47,"parentId":52,"scrollX":4653.6,"scrollY":3285.6},
+{"id":53,"expanded":false,"name":"All","order":47,"parentId":52,"scrollX":3506.3999999999996,"scrollY":2635.2},
 {"id":54,"expanded":false,"name":"MAP054","order":48,"parentId":52,"scrollX":1228.5,"scrollY":720}
 ]
